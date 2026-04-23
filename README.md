@@ -127,4 +127,3 @@ Escalation: "CRITICAL: lab-server-101 OOM + service down. User exam in 12h. Step
 ---
 
 *Built by Kumar Siva Sai Gourabathuni · SASTRA Deemed University · School of Computing*  
-*Guided by Dr. Thaventhiran C.*
